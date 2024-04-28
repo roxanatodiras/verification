@@ -8,6 +8,33 @@
 // [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
+
+string[] FilterArray (string[] array)
+{
+    int count = 0;
+    foreach (string str in array) 
+    {
+        if (str.Length <= 3)
+        {
+            count++;    
+        }
+        
+    }
+    string[] filtered = new string[count];
+        foreach (string str in array) 
+    {
+        int i = 0;
+        if (str.Length <= 3)
+        {
+            filtered[i] = str;
+            i++;    
+        }
+        
+    }
+    return filtered;
+}
+
 string[] array = { "Hello", "2", "world", ":-)" };
 string[] array2 = {"1234", "1567", "-2", "computer science" };
 string[] array3 = { "Russia", "Denmark", "Kazan" };
+
