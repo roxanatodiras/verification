@@ -1,0 +1,15 @@
+C:\Users\TODIRAS\Desktop\контрольная\verification\bin\Debug\net8.0\контрольная.exe
+C:\Users\TODIRAS\Desktop\контрольная\verification\bin\Debug\net8.0\контрольная.deps.json
+C:\Users\TODIRAS\Desktop\контрольная\verification\bin\Debug\net8.0\контрольная.runtimeconfig.json
+C:\Users\TODIRAS\Desktop\контрольная\verification\bin\Debug\net8.0\контрольная.dll
+C:\Users\TODIRAS\Desktop\контрольная\verification\bin\Debug\net8.0\контрольная.pdb
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\контрольная.AssemblyInfoInputs.cache
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\контрольная.AssemblyInfo.cs
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\контрольная.csproj.CoreCompileInputs.cache
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\контрольная.sourcelink.json
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\контрольная.dll
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\refint\контрольная.dll
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\контрольная.pdb
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\контрольная.genruntimeconfig.cache
+C:\Users\TODIRAS\Desktop\контрольная\verification\obj\Debug\net8.0\ref\контрольная.dll
